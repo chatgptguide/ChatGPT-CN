@@ -1,4 +1,4 @@
-# ChatGPT 中文版免费：国内使用指南（支持 GPT-5.6、GPT-5、GPT-4o，无需翻墙）【2026年8月最新更新】
+# ChatGPT 中文版免费：国内使用指南（支持 GPT-5.6、GPT-5、GPT-4o，无需翻墙）【2026年9月最新更新】
 
 本文提供完整的 **ChatGPT 中文版** 使用指南，推荐国内可用的 **ChatGPT 镜像网站**，支持 GPT-5.6、GPT-4、GPT-4o，永久免费，无需翻墙，适合中文用户。
 
@@ -16,6 +16,8 @@ ChatGPT 中文版：[https://lazymanchat.com/](https://lazymanchat.com/)
 
 ChatGPT 镜像网站：[https://ai.luckaichat.com/](https://ai.luckaichat.com/)
 
+**[ChatGPT 中文使用攻略博客](https://chatgpt-cnblog.com)**  — 覆盖注册、登录、模型选择与常见场景。  
+**[ChatGPT 2026 完整使用指南](https://gemini-cnblog.com)**  — 持续更新最新功能解读与实用技巧。
 ---
 
 ## **1. ChatGPT 究竟是什么？**
