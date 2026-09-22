@@ -16,8 +16,8 @@ ChatGPT 中文版：[https://lazymanchat.com/](https://lazymanchat.com/)
 
 ChatGPT 镜像网站：[https://ai.luckaichat.com/](https://ai.luckaichat.com/)
 
-**[ChatGPT 中文使用攻略博客](https://chatgpt-cnblog.com)**  — 覆盖注册、登录、模型选择与常见场景。  
-**[ChatGPT 2026 完整使用指南](https://gemini-cnblog.com)**  — 持续更新最新功能解读与实用技巧。
+**[ChatGPT 中文使用攻略博客](https://codex-china.com)**  — 覆盖注册、登录、模型选择与常见场景。  
+**[ChatGPT 2026 完整使用指南](https://chatgpt-blog.com)**  — 持续更新最新功能解读与实用技巧。
 ---
 
 ## **1. ChatGPT 究竟是什么？**
