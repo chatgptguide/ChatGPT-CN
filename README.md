@@ -18,6 +18,7 @@ ChatGPT 镜像网站：[https://ai.luckaichat.com/](https://ai.luckaichat.com/)
 
 **[ChatGPT 中文使用攻略博客](https://codex-china.com)**  — 覆盖注册、登录、模型选择与常见场景。  
 **[ChatGPT 2026 完整使用指南](https://chatgpt-blog.com)**  — 持续更新最新功能解读与实用技巧。
+**[ChatGPT 官网与中文版使用终极指南](https://www.chatgpt-desktop.com/blog/guides/chatgpt/chatgpt-official-chinese-ultimate-guide-2026.html)**  — 持续更新最新功能解读与实用技巧。
 ---
 
 ## **1. ChatGPT 究竟是什么？**
